@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('../public/fonts/Poppins-Regular.ttf') format('woff2'),
+       url('../public/fonts/Poppins-LightItalic.ttf') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
